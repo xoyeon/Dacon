@@ -1,13 +1,11 @@
 # #오늘의 파이썬 #1일1오파 #파이썬 # python
 ### 매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!
-/
+
 # DACON_101: 머신러닝이 처음이라면 🤔
-/
 # 🏃‍♀️ [데이터 다운로드] 부터 ️[대회 제출] 까지 🏃‍♂
-/
-/
+
 ## 1. 의사결정회귀나무로 따릉이 데이터 예측하기
-/
+
 🏃‍♂️Lv1 | EDA | 라이브러리 불러오기 (import)
 
 ⬇️Lv1 | EDA | 파일 불러오기 (read_csv())
@@ -35,10 +33,10 @@
 🙋Lv1 | 모델링 | 제출파일생성(to_csv())
 
 📝Lv1 | 복습
-/
-/
+
+
 ## Lv2. 결측치 보간법과 랜덤포레스트로 따릉이 데이터 예측하기
-/
+
 🤔 Lv2 | 전처리 | 결측치 평균으로 대체 (fillna({mean}))
 
 😲 Lv2 | 전처리 | 결측치 보간법으로 대체 (interpolate())
@@ -56,10 +54,10 @@
 ⚒ Lv2 | 튜닝 | GridSearch 구현 (GridSearchCV())
 
 📝 Lv2 | 복습
-/
-/
+
+
 ## Lv3. 교차검증과 LGBM 모델을 활용한 와인 품질 분류하기
-/
+
 🔎 Lv3 | EDA | read_csv(), info(), shape, head()
 
 🤔 Lv3 | EDA | 결측치 유무 확인하기 isnull().sum()
@@ -93,10 +91,10 @@
 🍧Lv3 | 튜닝 | 그리드, 랜덤 서치 vs Bayesian Optimization
 
 🍨Lv3 | 튜닝 | Bayesian Optimization 실습
-/
+
 📝 Lv3 | 복습
-/
-/
+\
+\
 🍦 Lv4 | EDA | 1/5 | seaborn pairplot
 
 🍨 Lv4 | EDA | 2/5 | seaborn distplot
