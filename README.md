@@ -1,8 +1,8 @@
 # #오늘의 파이썬 #1일1오파 #파이썬 # python
 ### 매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!
 
-# DACON_101: 머신러닝이 처음이라면 🤔
-# 🏃‍♀️ [데이터 다운로드] 부터 ️[대회 제출] 까지 🏃‍♂
+DACON_101: 머신러닝이 처음이라면 🤔
+🏃‍♀️ [데이터 다운로드] 부터 ️[대회 제출] 까지 🏃‍♂
 
 ## 1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
@@ -93,8 +93,9 @@
 🍨Lv3 | 튜닝 | Bayesian Optimization 실습
 
 📝 Lv3 | 복습
-\
-\
+
+
+## Lv4
 🍦 Lv4 | EDA | 1/5 | seaborn pairplot
 
 🍨 Lv4 | EDA | 2/5 | seaborn distplot
