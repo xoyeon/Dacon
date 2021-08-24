@@ -94,7 +94,7 @@
 
 [🍨](https://dacon.io/competitions/open/235698/talkboard/403916?page=1&dtype=recent)Lv3 | 튜닝 | [Bayesian Optimization 실습](Lv3_튜닝3_3_Bayesian_Optimization_실습.ipynb)
 
-[📝](https://dacon.io/competitions/open/235698/talkboard/403939?page=1&dtype=recent) Lv3 | [복습]()
+[📝](https://dacon.io/competitions/open/235698/talkboard/403939?page=1&dtype=recent) Lv3 | [복습](Lv3_복습.ipynb)
 
 
 ## Lv4
