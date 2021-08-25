@@ -7,7 +7,7 @@
 ## 1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
 
-[🏃‍](https://dacon.io/competitions/open/235698/talkboard/403407?page=1&dtype=recent)Lv1 | EDA | [라이브러리 불러오기 (import)](Lv1_EDA_1_5_라이브러리불러오기(import).ipynb)
+[🏃‍♂️](https://dacon.io/competitions/open/235698/talkboard/403407?page=1&dtype=recent)Lv1 | EDA | [라이브러리 불러오기 (import)](Lv1_EDA_1_5_라이브러리불러오기(import).ipynb)
 
 [⬇️](https://dacon.io/competitions/open/235698/talkboard/403422?page=3&dtype=recent)Lv1 | EDA | [파일 불러오기 (read_csv())](Lv1_EDA_2_5_데이터불러오기(read).ipynb)
 
@@ -119,7 +119,7 @@
 
 [🍎](https://dacon.io/competitions/open/235698/talkboard/403996?page=1&dtype=recent)Lv4 | EDA 5/5 | [다중공선성 VIF(분산 팽창 요인)](Lv4_EDA_5_5_다중공선성_VIF(분산팽창요인).ipynb)
 
-[🥕](https://dacon.io/competitions/open/235698/talkboard/403997?page=1&dtype=recent)Lv4 | EDA | [복습] 🧓👴(Lv4_EDA_복습.ipynb)
+[🥕](https://dacon.io/competitions/open/235698/talkboard/403997?page=1&dtype=recent)Lv4 | EDA | [복습 🧓👴](Lv4_EDA_복습.ipynb)
 
 
 🧸Lv4 | 전처리 | 1/9 | 다중공선성 해결 | 변수 정규화
