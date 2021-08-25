@@ -6,57 +6,66 @@
 
 ## 1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
+
 [🏃‍](https://dacon.io/competitions/open/235698/talkboard/403407?page=1&dtype=recent)Lv1 | EDA | [라이브러리 불러오기 (import)](Lv1_EDA_1_5_라이브러리불러오기(import).ipynb)
 
 [⬇️](https://dacon.io/competitions/open/235698/talkboard/403422?page=3&dtype=recent)Lv1 | EDA | [파일 불러오기 (read_csv())](Lv1_EDA_2_5_데이터불러오기(read).ipynb)
 
-[🔍]()Lv1 | EDA | [행열갯수 관찰하기 (shape)]()
+[🔍](https://dacon.io/competitions/open/235698/talkboard/403439?page=1&dtype=recent)Lv1 | EDA | [행열갯수 관찰하기 (shape)](Lv1_EDA_3_5_행열갯수관찰하기(shape).ipynb)
 
-✅Lv1 | EDA | 데이터 확인하기 (head())
+[✅](https://dacon.io/competitions/open/235698/talkboard/403460?page=1&dtype=recent)Lv1 | EDA | [데이터 확인하기 (head())](Lv1_EDA_4_5_처음n줄데이터관찰(head).ipynb)
 
-💣Lv1 | EDA | 결측치 확인하기 (is_null())
+[💣](https://dacon.io/competitions/open/235698/talkboard/403466?page=1&dtype=recent)Lv1 | EDA | [결측치 확인하기 (is_null())](Lv1_EDA_5_5_결측치확인하기(isnull,sum).ipynb)
 
-🧲Lv1 | 전처리 | 데이터 결측치 확인하기 (info())
 
-🛠Lv1 | 전처리 | 결측치 삭제하기, 대체하기 (dropna(), fillna())
+[🧲](https://dacon.io/competitions/open/235698/talkboard/403467?page=1&dtype=recent)Lv1 | 전처리 | [데이터 결측치 확인하기 (info())](Lv1_전처리_1_2_데이터결측치확인하기(info()).ipynb)
 
-🌲Lv1 | 모델링 | scikit-learn (DecisionTreeClassifier)
+[🛠](https://dacon.io/competitions/open/235698/talkboard/403490)Lv1 | 전처리 | [결측치 삭제하기, 대체하기 (dropna(), fillna())](Lv1_전처리_2_2_결측치삭제하기,_대체하기(dropna(),fillna()).ipynb)
 
-👨‍🏫Lv1 | 모델링 | 모델개념 (의사결정나무)
 
-🌳Lv1 | 모델링 | 모델선언 (DecisionTreeClassifier())
+[🌲](https://dacon.io/competitions/open/235698/talkboard/403497)Lv1 | 모델링 | scikit-learn (DecisionTreeClassifier)
 
-🏃Lv1 | 모델링 | 모델훈련 (fit())
+[👨‍🏫](https://dacon.io/competitions/open/235698/talkboard/403509?page=1&dtype=recent)Lv1 | 모델링 | 모델개념 (의사결정나무)
 
-✈️Lv1 | 모델링 | 테스트예측(predict())
+[🌳](https://dacon.io/competitions/open/235698/talkboard/403529?page=1&dtype=recent)Lv1 | 모델링 | [모델선언 (DecisionTreeClassifier())](Lv1_모델링_3_8_모델선언(의사결정나무).ipynb)
 
-🙋Lv1 | 모델링 | 제출파일생성(to_csv())
+[🏃](https://dacon.io/competitions/open/235698/talkboard/403540?page=2&dtype=recent)Lv1 | 모델링 | [모델훈련 (fit())](Lv1_모델링_4_6_모델훈련(의사결정나무).ipynb)
 
-📝Lv1 | 복습
+[✈️](https://dacon.io/competitions/open/235698/talkboard/403550?page=2&dtype=recent)Lv1 | 모델링 | [테스트예측(predict())](Lv1_모델링_5_6_테스트예측.ipynb)
+
+[🙋](https://dacon.io/competitions/open/235698/talkboard/403558?page=2&dtype=recent)Lv1 | 모델링 | [제출파일생성(to_csv())](Lv1_모델링_6_6_submission_생성_(to_csv()).ipynb)
+
+
+[📝](https://dacon.io/competitions/open/235698/talkboard/403576?page=1&dtype=recent)Lv1 | [복습](Lv1_복습_2_2.ipynb)
 
 
 ## Lv2. 결측치 보간법과 랜덤포레스트로 따릉이 데이터 예측하기
 
-🤔 Lv2 | 전처리 | 결측치 평균으로 대체 (fillna({mean}))
 
-😲 Lv2 | 전처리 | 결측치 보간법으로 대체 (interpolate())
+[🤔](https://dacon.io/competitions/open/235698/talkboard/403593?page=1&dtype=recent) Lv2 | 전처리 | [결측치 평균으로 대체 (fillna({mean}))](Lv2_전처리_1_3_결측치_대체_평균.ipynb)
 
-🔨 Lv2 | 모델링 | 랜덤포레스트 개념, 선언 (RandomForestRegressor())
+[😲](https://dacon.io/competitions/open/235698/talkboard/403612?page=1&dtype=recent) Lv2 | 전처리 | [결측치 보간법으로 대체 (interpolate())](Lv2_전처리_2_3_결측치_대체_보간법.ipynb)
 
-✏️ Lv2 | 모델링 | 랜덤포레스트를 평가척도에 맞게 학습 (criterion='mse')
 
-🔎 Lv2 | 튜닝 | 랜덤포레스트 변수중요도 확인 (feature_importances_)
+[🔨](https://dacon.io/competitions/open/235698/talkboard/403632) Lv2 | 모델링 | [랜덤포레스트 개념, 선언 (RandomForestRegressor())](Lv2_모델링_1_2_랜덤포레스트_개념,_선언.ipynb)
 
-❌ Lv2 | 튜닝 | 변수 제거 (drop())
+[✏️](https://dacon.io/competitions/open/235698/talkboard/403636?page=1&dtype=recent) Lv2 | 모델링 | [랜덤포레스트를 평가척도에 맞게 학습 (criterion='mse')](Lv2_모델링_2_2_랜덤포레스트_평가척도에_맞게_학습.ipynb)
 
-🧑‍🏫 Lv2 | 튜닝 | 하이퍼파라미터, GridSearch 개념 (정지규칙)
 
-⚒ Lv2 | 튜닝 | GridSearch 구현 (GridSearchCV())
+[🔎](https://dacon.io/competitions/open/235698/talkboard/403644) Lv2 | 튜닝 | [랜덤포레스트 변수중요도 확인 (feature_importances_)](Lv2_튜닝_1_5_랜덤포레스트_변수중요도_확인.ipynb)
 
-📝 Lv2 | 복습
+[❌](https://dacon.io/competitions/open/235698/talkboard/403652?page=1&dtype=recent) Lv2 | 튜닝 | [변수 제거 (drop())](Lv2_튜닝_2_5_변수제거.ipynb)
+
+[🧑‍🏫](https://dacon.io/competitions/open/235698/talkboard/403672?page=1&dtype=recent) Lv2 | 튜닝 | 하이퍼파라미터, GridSearch 개념 (정지규칙)
+
+[⚒](https://dacon.io/competitions/open/235698/talkboard/403676?page=1&dtype=recent) Lv2 | 튜닝 | [GridSearch 구현 (GridSearchCV())](Lv2_튜닝_3_5_Grid_Search.ipynb)
+
+
+[📝](https://dacon.io/competitions/open/235698/talkboard/403693?page=1&dtype=recent) Lv2 | [복습](교육_프로토_타입_따릉이.ipynb)
 
 
 ## Lv3. 교차검증과 LGBM 모델을 활용한 와인 품질 분류하기
+
 
 [🔎](https://dacon.io/competitions/open/235698/talkboard/403730?page=1&dtype=recent) Lv3 | EDA | [read_csv(), info(), shape, head()](Lv3_EDA_1_6_read_csv,_info,_shape,_head.ipynb)
 
@@ -97,33 +106,53 @@
 [📝](https://dacon.io/competitions/open/235698/talkboard/403939?page=1&dtype=recent) Lv3 | [복습](Lv3_복습.ipynb)
 
 
-## Lv4
-🍦 Lv4 | EDA | 1/5 | seaborn pairplot
+## Lv4. 교차검증과 모델 앙상블을 활용한 와인 품질 분류하기
 
-🍨 Lv4 | EDA | 2/5 | seaborn distplot
 
-🍧 Lv4 | EDA 3/5 | seaborn | heatamp
+[🍦](https://dacon.io/competitions/open/235698/talkboard/403940) Lv4 | EDA | 1/5 | [seaborn pairplot](Lv4_EDA_1_5_seaborn_pairplot.ipynb)
 
-🥝Lv4 | EDA 4/5 | 다중공선성 Scatter plot
+[🍨](https://dacon.io/competitions/open/235698/talkboard/403983?page=1&dtype=recent) Lv4 | EDA | 2/5 | [seaborn distplot](Lv4_EDA_2_5_seaborn_distplot.ipynb)
 
-🍎Lv4 | EDA 5/5 | 다중공선성 VIF(분산 팽창 요인)
+[🍧](https://dacon.io/competitions/open/235698/talkboard/403985?page=1&dtype=recent) Lv4 | EDA 3/5 | [seaborn | heatamp](Lv4_EDA_3_5_seaborn_heatmap.ipynb)
 
-🥕Lv4 | EDA | 복습 🧓👴
+[🥝](https://dacon.io/competitions/open/235698/talkboard/403992?page=1&dtype=recent)Lv4 | EDA 4/5 | [다중공선성 Scatter plot](Lv4_EDA_4_5_다중공선성_Scatter_plot.ipynb)
 
-🧸Lv4 | 전처리 1/8 | 다중공선성 해결 | 변수 정규화
+[🍎](https://dacon.io/competitions/open/235698/talkboard/403996?page=1&dtype=recent)Lv4 | EDA 5/5 | [다중공선성 VIF(분산 팽창 요인)](Lv4_EDA_5_5_다중공선성_VIF(분산팽창요인).ipynb)
 
-🎨Lv4 | 전처리 2/8 | 다중공선성 해결 | 변수 제거
+[🥕](https://dacon.io/competitions/open/235698/talkboard/403997?page=1&dtype=recent)Lv4 | EDA | [복습] 🧓👴(Lv4_EDA_복습.ipynb)
 
-🧵Lv4 | 전처리 | 3/8 | 다중공선성 해결 - PCA (1)
 
-🪀Lv4 | 전처리 | 4/8 | 다중공선성 해결 - PCA (2)
+🧸Lv4 | 전처리 | 1/9 | 다중공선성 해결 | 변수 정규화
 
-🥌Lv4 | 전처리 | 5/8 | 다중공선성 해결 - PCA (3)
+🎨Lv4 | 전처리 | 2/9 | 다중공선성 해결 | 변수 제거
 
-🏐Lv4 | 전처리 | 6/8 | 연속형 변수 변환 (1)
+🧵Lv4 | 전처리 | 3/9 | 다중공선성 해결 - PCA (1)
 
-🎣Lv4 | 전처리 | 7/8 | 연속형 변수 변환 (2)
+🪀Lv4 | 전처리 | 4/9 | 다중공선성 해결 - PCA (2)
 
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿
+🥌Lv4 | 전처리 | 5/9 | 다중공선성 해결 - PCA (3)
+
+🏐Lv4 | 전처리 | 6/9 | 연속형 변수 변환 (1)
+
+🎣Lv4 | 전처리 | 7/9 | 연속형 변수 변환 (2)
+
+🎢Lv4 | 전처리 | 8/9 | Polynomial Features (1)
+
+🎪Lv4 | 전처리 | 9/9 | Polynomial Features (2)
+
+🥕Lv4 | 전처리 | 복습 - (1) 🧓👴
+
+🍇Lv4 | 전처리 | 복습 - (2) 👸🤴
+
+
+
+🍖Lv4 | 모델링 | 1/10 | XGBoost 개념
+
+🍗Lv4 | 모델링 | 2/10 | XGBoost 실습
+
+
+
+
+
 
 #데이콘 #데이콘_101 #파이썬 #머신러닝 #딥러닝 #인공지능 #앙상블 #의사결정나무 #코랩 #데이터 #데이터분석 #판다스 #넘파이 #데이터사이언티스트 #AI #Python # Pandas #Numpy #lightgbm #read_csv #DACON #kaggle #sckit-learn
