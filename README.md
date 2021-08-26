@@ -122,15 +122,15 @@
 [🥕](https://dacon.io/competitions/open/235698/talkboard/403997?page=1&dtype=recent)Lv4 | EDA | [복습 🧓👴](Lv4_EDA_복습.ipynb)
 
 
-🧸Lv4 | 전처리 | 1/9 | 다중공선성 해결 | 변수 정규화
+[🧸](https://dacon.io/competitions/open/235698/talkboard/404023?page=1&dtype=recent)Lv4 | 전처리 | 1/9 | [다중공선성 해결 | 변수 정규화](Lv4_전처리_1_8_다중공선성_해결_변수_정규화.ipynb)
 
-🎨Lv4 | 전처리 | 2/9 | 다중공선성 해결 | 변수 제거
+[🎨](https://dacon.io/competitions/open/235698/talkboard/404060?page=1&dtype=recent)Lv4 | 전처리 | 2/9 | [다중공선성 해결 | 변수 제거](Lv4_전처리_2_8_다중공선성_해결_변수_제거.ipynb)
 
-🧵Lv4 | 전처리 | 3/9 | 다중공선성 해결 - PCA (1)
+[🧵](https://dacon.io/competitions/open/235698/talkboard/404068?page=1&dtype=recent)Lv4 | 전처리 | 3/9 | 다중공선성 해결 - PCA (1)
 
-🪀Lv4 | 전처리 | 4/9 | 다중공선성 해결 - PCA (2)
+[🪀](https://dacon.io/competitions/open/235698/talkboard/404069?page=1&dtype=recent)Lv4 | 전처리 | 4/9 | 다중공선성 해결 - PCA (2)
 
-🥌Lv4 | 전처리 | 5/9 | 다중공선성 해결 - PCA (3)
+[🥌](https://dacon.io/competitions/open/235698/talkboard/404077?page=1&dtype=recent)Lv4 | 전처리 | 5/9 | [다중공선성 해결 - PCA (3)](Lv4_전처리_5_8_다중공선성_해결_PCA.ipynb)
 
 🏐Lv4 | 전처리 | 6/9 | 연속형 변수 변환 (1)
 
