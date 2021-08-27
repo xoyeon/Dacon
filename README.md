@@ -2,8 +2,8 @@
 ## 🏃‍♀️ [데이터 다운로드] 부터 ️[대회 제출] 까지 🏃‍♂
 
 ### [#오늘의 파이썬](https://dacon.io/competitions/open/235698/overview/description) #1일1오파 #파이썬 # python
-매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기! :
-        아이콘을 클릭하면 Dacon 문제로 이동
+매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!   
+        아이콘을 클릭하면 Dacon 문제로 이동   
         목차명을 클릭하면 Github Code로 이동
 
 ***
