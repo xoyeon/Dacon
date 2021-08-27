@@ -4,8 +4,8 @@
 ### [#오늘의 파이썬](https://dacon.io/competitions/open/235698/overview/description) #1일1오파 #파이썬 # python
 매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!   
         
->> **이모티콘**을 클릭하면  <U>Dacon 문제</U>로 이동   
->> **목차명**을 클릭하면  <U>Github Code</U>로 이동
+> **이모티콘**을 클릭하면 Dacon 문제로 이동   
+> **목차명**을 클릭하면 Github Code로 이동
 
 ***
 
@@ -22,15 +22,9 @@
 
 [💣](https://dacon.io/competitions/open/235698/talkboard/403466?page=1&dtype=recent)Lv1 | EDA | [결측치 확인하기 (is_null())](Lv1_EDA_5_5_결측치확인하기(isnull,sum).ipynb)
 
-
-
-
 [🧲](https://dacon.io/competitions/open/235698/talkboard/403467?page=1&dtype=recent)Lv1 | 전처리 | [데이터 결측치 확인하기 (info())](Lv1_전처리_1_2_데이터결측치확인하기(info()).ipynb)
 
 [🛠](https://dacon.io/competitions/open/235698/talkboard/403490)Lv1 | 전처리 | [결측치 삭제하기, 대체하기 (dropna(), fillna())](Lv1_전처리_2_2_결측치삭제하기,_대체하기(dropna(),fillna()).ipynb)
-
-
-
 
 [🌲](https://dacon.io/competitions/open/235698/talkboard/403497)Lv1 | 모델링 | scikit-learn (DecisionTreeClassifier)
 
@@ -43,9 +37,6 @@
 [✈️](https://dacon.io/competitions/open/235698/talkboard/403550?page=2&dtype=recent)Lv1 | 모델링 | [테스트예측(predict())](Lv1_모델링_5_6_테스트예측.ipynb)
 
 [🙋](https://dacon.io/competitions/open/235698/talkboard/403558?page=2&dtype=recent)Lv1 | 모델링 | [제출파일생성(to_csv())](Lv1_모델링_6_6_submission_생성_(to_csv()).ipynb)
-
-
-
 
 [📝](https://dacon.io/competitions/open/235698/talkboard/403576?page=1&dtype=recent)Lv1 | [복습](Lv1_복습_2_2.ipynb)
 
@@ -64,9 +55,6 @@
 
 [✏️](https://dacon.io/competitions/open/235698/talkboard/403636?page=1&dtype=recent) Lv2 | 모델링 | [랜덤포레스트를 평가척도에 맞게 학습 (criterion='mse')](Lv2_모델링_2_2_랜덤포레스트_평가척도에_맞게_학습.ipynb)
 
-
-
-
 [🔎](https://dacon.io/competitions/open/235698/talkboard/403644) Lv2 | 튜닝 | [랜덤포레스트 변수중요도 확인 (feature_importances_)](Lv2_튜닝_1_5_랜덤포레스트_변수중요도_확인.ipynb)
 
 [❌](https://dacon.io/competitions/open/235698/talkboard/403652?page=1&dtype=recent) Lv2 | 튜닝 | [변수 제거 (drop())](Lv2_튜닝_2_5_변수제거.ipynb)
@@ -74,9 +62,6 @@
 [🧑‍🏫](https://dacon.io/competitions/open/235698/talkboard/403672?page=1&dtype=recent) Lv2 | 튜닝 | 하이퍼파라미터, GridSearch 개념 (정지규칙)
 
 [⚒](https://dacon.io/competitions/open/235698/talkboard/403676?page=1&dtype=recent) Lv2 | 튜닝 | [GridSearch 구현 (GridSearchCV())](Lv2_튜닝_3_5_Grid_Search.ipynb)
-
-
-
 
 [📝](https://dacon.io/competitions/open/235698/talkboard/403693?page=1&dtype=recent) Lv2 | [복습](교육_프로토_타입_따릉이.ipynb)
 
@@ -96,9 +81,6 @@
 
 [🔲](https://dacon.io/competitions/open/235698/talkboard/403770?page=1&dtype=recent) Lv3 | EDA | [Matplotlib 히스토그램 그리기 (hist())](Lv3_EDA_5_6_hist()_배우기.ipynb)
 
-
-
-
 [👍](https://dacon.io/competitions/open/235698/talkboard/403804?page=1&dtype=recent) Lv3 | 전처리 | [이상치 탐지 seaborn_boxplot()](Lv3_전처리_1_4_이상치탐지.ipynb)
 
 [🎁](https://dacon.io/competitions/open/235698/talkboard/403815?page=1&dtype=recent) Lv3 | 전처리 | [이상치 제거 IQR](Lv3_전처리_2_4_이상치_제거.ipynb)
@@ -106,9 +88,6 @@
 [💕](https://dacon.io/competitions/open/235698/talkboard/403825?page=1&dtype=recent)Lv3 | 전처리 | [수치형 데이터 정규화 MinMaxScaler()](Lv3_전처리_3_4_수치형_데이터_정규화.ipynb)
 
 [🌏](https://dacon.io/competitions/open/235698/talkboard/403837?page=1&dtype=recent)Lv3 | 전처리 |  [원-핫 인코딩 OneHotEncoder()](Lv3_전처리_4_4_원_핫_인코딩.ipynb)
-
-
-
 
 [😎](https://dacon.io/competitions/open/235698/talkboard/403861?page=1&dtype=recent)Lv3 | 모델링 | [모델 정의 RandomForestClassifier()](Lv3_모델링_1_4_모델_정의.ipynb)
 
@@ -118,17 +97,11 @@
 
 [👍](https://dacon.io/competitions/open/235698/talkboard/403902?page=1&dtype=recent)Lv3 | 모델링 | [교차검증 실습 K-Fold](Lv3_모델링_4_4_교차검증_정의.ipynb)
 
-
-
-
 [🍦](https://dacon.io/competitions/open/235698/talkboard/403913?page=1&dtype=recent)Lv3 | 튜닝 | [Bayesian Optimization](Lv3_튜닝1_3_Bayesian_Optimization_정의.ipynb)
 
 [🍧](https://dacon.io/competitions/open/235698/talkboard/403915?page=1&dtype=recent)Lv3 | 튜닝 | 그리드, 랜덤 서치 vs Bayesian Optimization
 
 [🍨](https://dacon.io/competitions/open/235698/talkboard/403916?page=1&dtype=recent)Lv3 | 튜닝 | [Bayesian Optimization 실습](Lv3_튜닝3_3_Bayesian_Optimization_실습.ipynb)
-
-
-
 
 [📝](https://dacon.io/competitions/open/235698/talkboard/403939?page=1&dtype=recent) Lv3 | [복습](Lv3_복습.ipynb)
 
@@ -147,9 +120,6 @@
 [🍎](https://dacon.io/competitions/open/235698/talkboard/403996?page=1&dtype=recent)Lv4 | EDA 5/5 | [다중공선성 VIF(분산 팽창 요인)](Lv4_EDA_5_5_다중공선성_VIF(분산팽창요인).ipynb)
 
 [🥕](https://dacon.io/competitions/open/235698/talkboard/403997?page=1&dtype=recent)Lv4 | EDA | [복습 🧓👴](Lv4_EDA_복습.ipynb)
-
-
-
 
 [🧸](https://dacon.io/competitions/open/235698/talkboard/404023?page=1&dtype=recent)Lv4 | 전처리 | 1/9 | [다중공선성 해결 | 변수 정규화](Lv4_전처리_1_8_다중공선성_해결_변수_정규화.ipynb)
 
@@ -172,9 +142,6 @@
 [🥕](https://dacon.io/competitions/open/235698/talkboard/404158?page=1&dtype=recent)Lv4 | 전처리 | [복습 - (1) 🧓👴](Lv4_전처리_복습_(1).ipynb)
 
 [🍇](https://dacon.io/competitions/open/235698/talkboard/404175?page=1&dtype=recent)Lv4 | 전처리 | [복습 - (2) 👸🤴](Lv4_전처리_복습_(2).ipynb)
-
-
-
 
 🍖Lv4 | 모델링 | 1/10 | XGBoost 개념
 
