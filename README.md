@@ -1,15 +1,15 @@
 # DACON_101: 머신러닝이 처음이라면 🤔
-## 🏃‍♀️ [데이터 다운로드] 부터 ️[대회 제출] 까지 🏃‍♂
+## 🏃‍♀️ [데이터 다운로드]부터 ️[대회 제출]까지 🏃‍♂
 
 ### [#오늘의 파이썬](https://dacon.io/competitions/open/235698/overview/description) #1일1오파 #파이썬 # python
 매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!   
         
-<B> 아이콘 </B>을 클릭하면  <u> Dacon 문제 </u>로 이동   
-        <B> 목차명 </B>을 클릭하면  <u> Github Code </u>로 이동
+<B>아이콘</B>을 클릭하면  <u>Dacon 문제</u>로 이동   
+<B>목차명</B>을 클릭하면  <u>Github Code</u>로 이동
 
 ***
 
-## 1. 의사결정회귀나무로 따릉이 데이터 예측하기
+## Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
 
 [🏃‍♂️](https://dacon.io/competitions/open/235698/talkboard/403407?page=1&dtype=recent)Lv1 | EDA | [라이브러리 불러오기 (import)](Lv1_EDA_1_5_라이브러리불러오기(import).ipynb)
