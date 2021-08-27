@@ -4,8 +4,8 @@
 ### [#오늘의 파이썬](https://dacon.io/competitions/open/235698/overview/description) #1일1오파 #파이썬 # python
 매일 오전10시 업로드, Dacon Daily Python Camp. 1일1오파 격파하기!   
         
-<B>아이콘</B>을 클릭하면  <u>Dacon 문제</u>로 이동   
-<B>목차명</B>을 클릭하면  <u>Github Code</u>로 이동
+>> **이모티콘**을 클릭하면  <U>Dacon 문제</U>로 이동   
+>> **목차명**을 클릭하면  <U>Github Code</U>로 이동
 
 ***
 
