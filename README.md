@@ -133,7 +133,7 @@
 
 [🏐](https://dacon.io/competitions/open/235698/talkboard/404080?page=1&dtype=recent)Lv4 | 전처리 | 6/9 | [연속형 변수 변환 (1)](Lv4_전처리_6_9_연속형_변수를_범주형_변수로_바꾸기.ipynb)
 
-[🎣](https://dacon.io/competitions/open/235698/talkboard/404082?page=1&dtype=recent)Lv4 | 전처리 | 7/9 | 연속형 변수 변환 (2)( ## Dacon Colab 실습파일 오류 )
+[🎣](https://dacon.io/competitions/open/235698/talkboard/404082?page=1&dtype=recent)Lv4 | 전처리 | 7/9 | 연속형 변수 변환 (2)( [Colab 실습 링크]에서 "노트 로드 오류" 발생 )
 
 [🎢](https://dacon.io/competitions/open/235698/talkboard/404123)Lv4 | 전처리 | 8/9 | [Polynomial Features (1)](Lv4_전처리_8_9_Polynominal_features.ipynb)
 
@@ -143,14 +143,19 @@
 
 [🍇](https://dacon.io/competitions/open/235698/talkboard/404175?page=1&dtype=recent)Lv4 | 전처리 | [복습 - (2) 👸🤴](Lv4_전처리_복습_(2).ipynb)
 
-🍖Lv4 | 모델링 | 1/10 | XGBoost 개념
+[🍖](https://dacon.io/competitions/open/235698/talkboard/404176?page=1&dtype=recent)Lv4 | 모델링 | 1/8 | XGBoost 개념
 
-🍗Lv4 | 모델링 | 2/10 | XGBoost 실습
+[🍗](https://dacon.io/competitions/open/235698/talkboard/404178?page=1&dtype=recent)Lv4 | 모델링 | 2/8 | [XGBoost 실습](Lv4_모델링_2_8_xgboost.ipynb)
 
-🥩Lv4 | 모델링 | 3/10 | LightGBM 개념
+[🥩](https://dacon.io/competitions/open/235698/talkboard/404193?page=1&dtype=recent)Lv4 | 모델링 | 3/8 | LightGBM 개념
 
-🍤Lv4 | 모델링 | 4/10 | LightGBM 실습
+[🍤](https://dacon.io/competitions/open/235698/talkboard/404210?page=1&dtype=recent)Lv4 | 모델링 | 4/8 | [LightGBM 실습](Lv4_모델링_4_8_LGBM_실습.ipynb)
 
+[🍩](https://dacon.io/competitions/open/235698/talkboard/404212?page=1&dtype=recent)Lv4 | 모델링 | 5/8 | stratified k-fold 란 ?
+
+[🍪](https://dacon.io/competitions/open/235698/talkboard/404224?page=1&dtype=recent)Lv4 | 모델링 | 6/8 | [stratified k-fold 실습](Lv4_모델링_6_8_stratified_k_fold.ipynb)
+
+	
 
 
 
