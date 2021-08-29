@@ -133,7 +133,7 @@
 
 [🏐](https://dacon.io/competitions/open/235698/talkboard/404080?page=1&dtype=recent)Lv4 | 전처리 | 6/9 | [연속형 변수 변환 (1)](Lv4_전처리_6_9_연속형_변수를_범주형_변수로_바꾸기.ipynb)
 
-[🎣](https://dacon.io/competitions/open/235698/talkboard/404082?page=1&dtype=recent)Lv4 | 전처리 | 7/9 | 연속형 변수 변환 (2)( [Colab 실습 링크]에서 "노트 로드 오류" 발생 )
+[🎣](https://dacon.io/competitions/open/235698/talkboard/404082?page=1&dtype=recent)Lv4 | 전처리 | 7/9 | 연속형 변수 변환 (2)  **([Colab 실습 링크]에서 "노트 로드 오류" 발생)**
 
 [🎢](https://dacon.io/competitions/open/235698/talkboard/404123)Lv4 | 전처리 | 8/9 | [Polynomial Features (1)](Lv4_전처리_8_9_Polynominal_features.ipynb)
 
