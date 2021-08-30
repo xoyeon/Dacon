@@ -155,7 +155,18 @@
 
 [🍪](https://dacon.io/competitions/open/235698/talkboard/404224?page=1&dtype=recent)Lv4 | 모델링 | 6/8 | [stratified k-fold 실습](Lv4_모델링_6_8_stratified_k_fold.ipynb)
 
-	
+[🍘](https://dacon.io/competitions/open/235698/talkboard/404241?page=1&dtype=recent)Lv4 | 모델링 | 7/8 | Voting Classifier 정의
+
+[🍙](https://dacon.io/competitions/open/235698/talkboard/404247?page=1&dtype=recent)LV4 | 모델링 | 8/8 | [Voting Classifier 실습](Lv4_모델링_8_8_Voting_Classfier.ipynb)
+
+[🥛](https://dacon.io/competitions/open/235698/talkboard/404266?page=1&dtype=recent)LV4 | 모델링 | [복습 - (1)](Lv4_모델링_복습_(1).ipynb)
+
+
+
+
+
+
+
 
 
 
