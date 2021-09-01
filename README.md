@@ -161,6 +161,9 @@
 
 [🥛](https://dacon.io/competitions/open/235698/talkboard/404266?page=1&dtype=recent)LV4 | 모델링 | [복습 - (1)](Lv4_모델링_복습_(1).ipynb)
 
+[🧴](https://dacon.io/competitions/open/235698/talkboard/404271?page=1&dtype=recent) Lv4 | 모델링 | [복습 - (2)](Lv4_모델링_복습_(2).ipynb)
+
+[🛹](https://dacon.io/competitions/open/235698/talkboard/404284?page=1&dtype=recent)Lv4 | 튜닝 | 1/7 | Bayesian Optimization 복습
 
 
 
