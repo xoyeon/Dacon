@@ -175,7 +175,7 @@
 
 [🚲](https://dacon.io/competitions/open/235698/talkboard/404330?page=1&dtype=recent)Lv4 | 튜닝 | 6/6 | [모델 튜닝 / Voting Classifier(2)](Lv4_튜닝_6_7_모델_튜닝_및_Voting_Classifier_(2).ipynb)
 
-
+[🌀](https://dacon.io/competitions/open/235698/talkboard/404349?page=1&dtype=recent)Lv4 | [복습]()
 
 
 
