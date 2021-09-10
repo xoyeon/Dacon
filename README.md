@@ -177,7 +177,18 @@
 
 [🌀](https://dacon.io/competitions/open/235698/talkboard/404349?page=1&dtype=recent)Lv4 | [복습](Lv4_복습.ipynb)
 
+🛫[정형 데이터 분석 파이프라인 - (1)](https://dacon.io/competitions/open/235698/talkboard/404358?page=1&dtype=recent)
 
+🛬[정형 데이터 분석 파이프라인 - (2)](https://dacon.io/competitions/open/235698/talkboard/404370?page=1&dtype=recent)
+
+
+
+
+
+## Lv1. LGBM모델로 청와대 청원 데이터 분류하기
+
+
+[💫](https://dacon.io/competitions/open/235698/talkboard/404389)Lv1 | EDA  | 1/11 | [파일 불러오기 - (1)](Lv1_EDA_1_12_데이터불러오기_(1)_.ipynb)
 
 
 
