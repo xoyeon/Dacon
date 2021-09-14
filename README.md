@@ -188,8 +188,13 @@
 ## Lv1. LGBM모델로 청와대 청원 데이터 분류하기
 
 
-[💫](https://dacon.io/competitions/open/235698/talkboard/404389)Lv1 | EDA  | 1/11 | [파일 불러오기 - (1)](Lv1_EDA_1_12_데이터불러오기_(1)_.ipynb)
+[💫](https://dacon.io/competitions/open/235698/talkboard/404389?page=1&dtype=recent)Lv1 | EDA  | 1/12 | [파일 불러오기 - (nrows, n번째 행까지 불러오기)](Lv1_EDA_1_12_데이터불러오기_(1)_.ipynb)
 
+[🚗](https://dacon.io/competitions/open/235698/talkboard/404396?page=1&dtype=recent)Lv1 | EDA | 2/12 | [파일 불러오기 - (header, 원하는 행을 컬럼으로 지정하여 불러오기)](Lv1_EDA_2_12_데이터불러오기_(2).ipynb)
+
+[🚓](https://dacon.io/competitions/open/235698/talkboard/404397?page=1&dtype=recent)Lv1 | EDA | 3/12 | [파일 불러오기 - (index_col, 원하는 컬럼을 인덱스로 지정하여 불러오기)](Lv1_EDA_3_12_데이터불러오기(read)_(3).ipynb)
+
+[🚕](https://dacon.io/competitions/open/235698/talkboard/404398?page=1&dtype=recent)Lv1 | EDA | 4/12 | [파일 불러오기 - (na_filter, 결측치를 제외하고 불러오기)](Lv1_EDA_4_12_데이터불러오기_(4)_.ipynb)
 
 
 
