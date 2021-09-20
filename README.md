@@ -196,6 +196,12 @@
 
 [🚕](https://dacon.io/competitions/open/235698/talkboard/404398?page=1&dtype=recent)Lv1 | EDA | 4/12 | [파일 불러오기 - (na_filter, 결측치를 제외하고 불러오기)](Lv1_EDA_4_12_데이터불러오기_(4)_.ipynb)
 
+[🪂](https://dacon.io/competitions/open/235698/talkboard/404429?page=1&dtype=recent) Lv1 | EDA | 5/12 | [파일 불러오기 - (skipfooter, 뒤에서 n개 행 제외하고 불러오기)](Lv1_EDA_5_12_데이터불러오기_(5)_.ipynb)
+
+[🚍](https://dacon.io/competitions/open/235698/talkboard/404431?page=1&dtype=recent)Lv1 | EDA | 6/12 | [파일 불러오기 - (encoding, 데이터의 인코딩 형식을 맞춰 불러오기)](Lv1_EDA_6_12_데이터불러오기_(6)_.ipynb)
+
+[🚆](https://dacon.io/competitions/open/235698/talkboard/404463?page=1&dtype=recent&ptype)Lv1 | EDA | 7/12 | [파일 불러오기 - (names, 데이터를 불러올 때 컬럼명을 지정해서 불러오기)](Lv1_EDA_7_12_데이터불러오기_(7)_.ipynb)
+
 
 
 
