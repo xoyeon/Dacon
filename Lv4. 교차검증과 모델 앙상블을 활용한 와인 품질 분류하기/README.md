@@ -52,3 +52,23 @@
 [🍙](https://dacon.io/competitions/open/235698/talkboard/404247?page=1&dtype=recent)LV4 | 모델링 | 8/8 | [Voting Classifier 실습](Lv4_모델링_8_8_Voting_Classfier.ipynb)
 
 [🥛](https://dacon.io/competitions/open/235698/talkboard/404266?page=1&dtype=recent)LV4 | 모델링 | [복습 - (1)](Lv4_모델링_복습_(1).ipynb)
+
+[🧴](https://dacon.io/competitions/open/235698/talkboard/404271?page=1&dtype=recent) Lv4 | 모델링 | [복습 - (2)](Lv4_모델링_복습_(2).ipynb)
+
+[🛹](https://dacon.io/competitions/open/235698/talkboard/404284?page=1&dtype=recent)Lv4 | 튜닝 | 1/7 | Bayesian Optimization 복습
+
+[🧷](https://dacon.io/competitions/open/235698/talkboard/404303?page=1&dtype=recent)Lv4 | 튜닝 | 2/6 | [Bayesian Optimization 실습](Lv4_튜닝2_7_Bayesian_Optimization_실습.ipynb)
+
+[🚧](https://dacon.io/competitions/open/235698/talkboard/404315?page=1&dtype=recent)Lv4 | 튜닝 | 3/6 | [XGBoost 튜닝](Lv4_튜닝_3_7_xgboost_튜닝.ipynb)
+
+[🚀](https://dacon.io/competitions/open/235698/talkboard/404322?page=1&dtype=recent)Lv4 | 튜닝 | 4/6 | [Light GBM 튜닝](Lv4_튜닝_4_7_LGBM_튜닝.ipynb)
+
+[🚁](https://dacon.io/competitions/open/235698/talkboard/404329?page=1&dtype=recent)Lv4 | 튜닝 | 5/6 | [모델 튜닝 / Voting Classifier(1)](Lv4_튜닝_5_7_모델_튜닝_및_Voting_Classifier.ipynb)
+
+[🚲](https://dacon.io/competitions/open/235698/talkboard/404330?page=1&dtype=recent)Lv4 | 튜닝 | 6/6 | [모델 튜닝 / Voting Classifier(2)](Lv4_튜닝_6_7_모델_튜닝_및_Voting_Classifier_(2).ipynb)
+
+[🌀](https://dacon.io/competitions/open/235698/talkboard/404349?page=1&dtype=recent)Lv4 | [복습](Lv4_복습.ipynb)
+
+🛫[정형 데이터 분석 파이프라인 - (1)](https://dacon.io/competitions/open/235698/talkboard/404358?page=1&dtype=recent)
+
+🛬[정형 데이터 분석 파이프라인 - (2)](https://dacon.io/competitions/open/235698/talkboard/404370?page=1&dtype=recent)
