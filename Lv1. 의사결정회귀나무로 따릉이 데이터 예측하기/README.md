@@ -1,8 +1,8 @@
-## Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
-
-
   > **이모티콘**을 클릭하면 Dacon 문제로 이동   
   > **목차명**을 클릭하면 Github Code로 이동
+***
+
+## Lv1. 의사결정회귀나무로 따릉이 데이터 예측하기
 
 
 [🏃‍♂️](https://dacon.io/competitions/open/235698/talkboard/403407?page=1&dtype=recent)Lv1 | EDA | [라이브러리 불러오기 (import)](Lv1_EDA_1_5_라이브러리불러오기(import).ipynb)
