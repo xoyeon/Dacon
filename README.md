@@ -202,6 +202,16 @@
 
 [🚆](https://dacon.io/competitions/open/235698/talkboard/404463?page=1&dtype=recent&ptype)Lv1 | EDA | 7/12 | [파일 불러오기 - (names, 데이터를 불러올 때 컬럼명을 지정해서 불러오기)](Lv1_EDA_7_12_데이터불러오기_(7)_.ipynb)
 
+[🍈](https://dacon.io/competitions/open/235698/talkboard/404464?page=1&dtype=recent)Lv1 | EDA | 8/12 | 파일 내보내기 - (index=False, 데이터를 저장할 때 index 제외하고 저장)
+
+[🍉](https://dacon.io/competitions/open/235698/talkboard/404465?page=1&dtype=recent&ptype)Lv1 | EDA | 9/12 | 데이터 확인하기 - (head(),tail())
+
+[🍊](https://dacon.io/competitions/open/235698/talkboard/404470?page=1&dtype=recent&ptype)Lv1 | EDA | 10/12 | 데이터 결측치 확인하기 - (isnull().sum())
+
+[🍋](https://dacon.io/competitions/open/235698/talkboard/404479)Lv1| EDA | 11/12 | unique value 값 개수 출력(value_counts()
+
+[🍌](https://dacon.io/competitions/open/235698/talkboard/404480?page=1&dtype=recent&ptype)Lv1 | EDA | 12/12 | 데이터 기본 정보 보기(info())
+
 
 
 
