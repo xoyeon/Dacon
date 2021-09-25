@@ -62,7 +62,7 @@
 
 [🍋](https://dacon.io/competitions/open/235698/talkboard/404479)Lv1| EDA | 11/12 | [unique value 값 개수 출력(value_counts()](Lv1_EDA_11_12_value_counts_.ipynb)
 
-[🍌](https://dacon.io/competitions/open/235698/talkboard/404480?page=1&dtype=recent&ptype)Lv1 | EDA | 12/12 | 데이터 기본 정보 보기(info())
+[🍌](https://dacon.io/competitions/open/235698/talkboard/404480?page=1&dtype=recent&ptype)Lv1 | EDA | 12/12 | [데이터 기본 정보 보기(info())](Lv1_EDA_11_12_value_counts_.ipynb)
 
 
 
