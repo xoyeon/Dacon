@@ -64,6 +64,12 @@
 
 [🍌](https://dacon.io/competitions/open/235698/talkboard/404480?page=1&dtype=recent&ptype)Lv1 | EDA | 12/12 | [데이터 기본 정보 보기(info())](Lv1_EDA_11_12_value_counts_.ipynb)
 
+[▶](https://dacon.io/competitions/open/235698/talkboard/404545?page=1&dtype=recent)Lv1 | 전처리 | 1/10 | 텍스트 데이터 전처리 개요
+
+[💫](https://dacon.io/competitions/open/235698/talkboard/404562?page=1&dtype=recent)Lv1 | 전처리 | 2/10 | [텍스트 데이터 특정 텍스트 제거(replace())](Lv1_전처리_2_10_replace().ipynb)
+
+[➰](https://dacon.io/competitions/open/235698/talkboard/404570?page=1&dtype=recent)Lv1 | 전처리 | 3/10 | [텍스트 데이터 특정 텍스트 제거(isalpha())](Lv1_전처리_3_10_isalpha().ipynb)
+
 
 
 
