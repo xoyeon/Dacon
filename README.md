@@ -64,11 +64,25 @@
 
 [🍌](https://dacon.io/competitions/open/235698/talkboard/404480?page=1&dtype=recent&ptype)Lv1 | EDA | 12/12 | [데이터 기본 정보 보기(info())](Lv1_EDA_11_12_value_counts_.ipynb)
 
-[▶](https://dacon.io/competitions/open/235698/talkboard/404545?page=1&dtype=recent)Lv1 | 전처리 | 1/10 | 텍스트 데이터 전처리 개요
+[🥧](https://dacon.io/competitions/open/235698/talkboard/404545?page=1&dtype=recent)Lv1 | 전처리 | 1/14 | 텍스트 데이터 전처리 개요
 
-[💫](https://dacon.io/competitions/open/235698/talkboard/404562?page=1&dtype=recent)Lv1 | 전처리 | 2/10 | [텍스트 데이터 특정 텍스트 제거(replace())](Lv1_전처리_2_10_replace().ipynb)
+[🍦](https://dacon.io/competitions/open/235698/talkboard/404562?page=1&dtype=recent)Lv1 | 전처리 | 2/14 | [텍스트 데이터 특정 텍스트 제거(replace())](Lv1_전처리_2_10_replace().ipynb)
 
-[➰](https://dacon.io/competitions/open/235698/talkboard/404570?page=1&dtype=recent)Lv1 | 전처리 | 3/10 | [텍스트 데이터 특정 텍스트 제거(isalpha())](Lv1_전처리_3_10_isalpha().ipynb)
+[🍧]((https://dacon.io/competitions/open/235698/talkboard/404570?page=1&dtype=recent)Lv1 | 전처리 | 3/14 | [텍스트 데이터 특정 텍스트 제거(isalpha())](Lv1_전처리_3_10_isalpha().ipynb)
+
+[🍨](https://dacon.io/competitions/open/235698/talkboard/404571?page=1&dtype=recent)Lv1 | 전처리 | 4/14 | [텍스트 데이터 특정 텍스트 제거(isalnum())](Lv1_전처리_4_14_isalnum().ipynb)
+
+[🍩](https://dacon.io/competitions/open/235698/talkboard/404597?page=1&dtype=recent)Lv1 | 전처리 | 5/14 | [텍스트 데이터 특정 텍스트 제거(isdecimal())](Lv1_전처리_5_14_isdecimal().ipynb)
+
+[🍪](https://dacon.io/competitions/open/235698/talkboard/404623?page=1&dtype=recent)Lv1 | 전처리 | 6/14 | [특정 텍스트 제거 - apply(),lambda()](Lv1_전처리_6_14_특정텍스트제거하기.ipynb)
+
+[🎂](https://dacon.io/competitions/open/235698/talkboard/404691?page=1&dtype=recent)Lv1 | 전처리 | 7/14 | 형태소 분석기 - (1)
+
+[🧁](https://dacon.io/competitions/open/235698/talkboard/404707?page=1&dtype=recent)Lv1 | 전처리 | 8/14 | [형태소 분석기 - (2)](Lv1_전처리_8_14_형태소분석기.ipynb)
+
+[🍫](https://dacon.io/competitions/open/235698/talkboard/404723?page=1&dtype=recent)Lv1 | 전처리 | 9/14 | [형태소 분석기 - (3)](Lv1_전처리_9_14_형태소분석기_(2).ipynb)
+
+[🍬](https://dacon.io/competitions/open/235698/talkboard/404733?page=1&dtype=recent)Lv1 | 전처리 | 10/14 | Bag of Words
 
 
 
