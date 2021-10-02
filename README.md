@@ -68,7 +68,7 @@
 
 [🍦](https://dacon.io/competitions/open/235698/talkboard/404562?page=1&dtype=recent)Lv1 | 전처리 | 2/14 | [텍스트 데이터 특정 텍스트 제거(replace())](Lv1_전처리_2_10_replace().ipynb)
 
-[🍧]((https://dacon.io/competitions/open/235698/talkboard/404570?page=1&dtype=recent)Lv1 | 전처리 | 3/14 | [텍스트 데이터 특정 텍스트 제거(isalpha())](Lv1_전처리_3_10_isalpha().ipynb)
+[🍧](https://dacon.io/competitions/open/235698/talkboard/404570?page=1&dtype=recent)Lv1 | 전처리 | 3/14 | [텍스트 데이터 특정 텍스트 제거(isalpha())](Lv1_전처리_3_10_isalpha().ipynb)
 
 [🍨](https://dacon.io/competitions/open/235698/talkboard/404571?page=1&dtype=recent)Lv1 | 전처리 | 4/14 | [텍스트 데이터 특정 텍스트 제거(isalnum())](Lv1_전처리_4_14_isalnum().ipynb)
 
