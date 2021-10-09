@@ -84,7 +84,13 @@
 
 [🍬](https://dacon.io/competitions/open/235698/talkboard/404733?page=1&dtype=recent)Lv1 | 전처리 | 10/14 | Bag of Words
 
+[🍭](https://dacon.io/competitions/open/235698/talkboard/404738?page=1&dtype=recent)Lv1 | 전처리 | 11/14 | CountVectorizer - (1)
 
+[🍡](https://dacon.io/competitions/open/235698/talkboard/404776?page=1&dtype=recent)Lv1 | 전처리 | 12/14 | [CountVectorizer - (2)](Lv1_전처리_12_14_CountVectorizer.ipynb)
+
+[🍺](https://dacon.io/competitions/open/235698/talkboard/404777?page=1&dtype=recent)Lv1 | 전처리 | 13/14 | TF-IDF(Term Frequency - Inverse Document Frequency) - (1)
+
+[🍻](https://dacon.io/competitions/open/235698/talkboard/404799?page=1&dtype=recent)Lv1 | 전처리 | 14/14 | [TF-IDF(Term Frequency - Inverse Document Frequency) - (2)](Lv1_전처리_14_14_tf_idf.ipynb)
 
 
 
