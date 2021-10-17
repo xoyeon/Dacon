@@ -92,6 +92,11 @@
 
 [🍻](https://dacon.io/competitions/open/235698/talkboard/404799?page=1&dtype=recent)Lv1 | 전처리 | 14/14 | [TF-IDF(Term Frequency - Inverse Document Frequency) - (2)](Lv1_전처리_14_14_tf_idf.ipynb)
 
+[🌺](https://dacon.io/competitions/open/235698/talkboard/404849?page=1&dtype=recent)Lv1 | 모델링 | 1/10 | train_test_split - (1)
+
+[🌻](https://dacon.io/competitions/open/235698/talkboard/404862?page=1&dtype=recent)Lv1 | 모델링 | 1/10 | [train_test_split - (2)](Lv1_모델링_train_test_split()_(2).ipynb)
+
+
 
 
 #데이콘 #데이콘_101 #파이썬 #머신러닝 #딥러닝 #인공지능 #앙상블 #의사결정나무 #코랩 #데이터 #데이터분석 #판다스 #넘파이 #데이터사이언티스트 #AI #Python # Pandas #Numpy #lightgbm #read_csv #DACON #kaggle #sckit-learn
