@@ -92,9 +92,11 @@
 
 [🍻](https://dacon.io/competitions/open/235698/talkboard/404799?page=1&dtype=recent)Lv1 | 전처리 | 14/14 | [TF-IDF(Term Frequency - Inverse Document Frequency) - (2)](Lv1_전처리_14_14_tf_idf.ipynb)
 
-[🌺](https://dacon.io/competitions/open/235698/talkboard/404849?page=1&dtype=recent)Lv1 | 모델링 | 1/10 | train_test_split - (1)
+[🌺](https://dacon.io/competitions/open/235698/talkboard/404849?page=1&dtype=recent)Lv1 | 모델링 | 1/6 | train_test_split - (1)
 
-[🌻](https://dacon.io/competitions/open/235698/talkboard/404862?page=1&dtype=recent)Lv1 | 모델링 | 1/10 | [train_test_split - (2)](Lv1_모델링_train_test_split()_(2).ipynb)
+[🌻](https://dacon.io/competitions/open/235698/talkboard/404862?page=1&dtype=recent)Lv1 | 모델링 | 1/6 | [train_test_split - (2)](Lv1_모델링_train_test_split()_(2).ipynb)
+
+[🌼](https://dacon.io/competitions/open/235698/talkboard/404879?page=1&dtype=recent)Lv1 | 모델링 | 3/6 | [train_test_split - (3)](Lv1_모델링_train_test_split()_(3).ipynb)
 
 
 
