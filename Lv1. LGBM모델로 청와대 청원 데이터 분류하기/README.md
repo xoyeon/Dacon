@@ -1,4 +1,8 @@
-### Lv1. LGBM모델로 청와대 청원 데이터 분류하기
+ **이모티콘**을 클릭하면 Dacon 문제로 이동   
+ **목차명**을 클릭하면 Github Code로 이동
+***
+
+## Lv1. LGBM모델로 청와대 청원 데이터 분류하기
 
 
 [💫](https://dacon.io/competitions/open/235698/talkboard/404389?page=1&dtype=recent)Lv1 | EDA  | 1/12 | [파일 불러오기 - (nrows, n번째 행까지 불러오기)](Lv1_EDA_1_12_데이터불러오기_(1)_.ipynb)
