@@ -98,7 +98,16 @@
 
 [🌼](https://dacon.io/competitions/open/235698/talkboard/404879?page=1&dtype=recent)Lv1 | 모델링 | 3/6 | [train_test_split - (3)](Lv1_모델링_train_test_split()_(3).ipynb)
 
+🌷Lv1 | 모델링 | 4/6 | train_test_split - (4)
 
+[🥀](https://dacon.io/competitions/open/235698/talkboard/404900?page=1&dtype=recent)Lv1 | 모델링 | 5/6 | [train_test_split / LGBM - (1)](Lv1_모델링_LGBM.ipynb)
 
+[🌱](https://dacon.io/competitions/open/235698/talkboard/404916?page=1&dtype=recent)Lv1 | 모델링 | 6/6 | train_test_split / LGBM - (2)
+
+<br>
+
+### 💻 오늘의 파이썬 실습 종료
+
+<br>
 
 #데이콘 #데이콘_101 #파이썬 #머신러닝 #딥러닝 #인공지능 #앙상블 #의사결정나무 #코랩 #데이터 #데이터분석 #판다스 #넘파이 #데이터사이언티스트 #AI #Python # Pandas #Numpy #lightgbm #read_csv #DACON #kaggle #sckit-learn
